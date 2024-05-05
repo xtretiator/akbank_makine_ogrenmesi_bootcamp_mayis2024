@@ -11,6 +11,8 @@ Machine learning steps include splitting the dataset into training and testing s
 In the final section, the performance of the created model is evaluated using various metrics including accuracy, precision, recall, F1-score, ROC curve, and precision-recall curve. Additionally, techniques such as cross-validation, GridSearchCV and RandomizedSearchCV for hyperparameter tuning are employed to improve the model.
 
 # Requirements
+
+
 The following Python libraries are needed to run the project:
 
 pandas
