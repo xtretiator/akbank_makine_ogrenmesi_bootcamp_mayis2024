@@ -2,7 +2,7 @@
 This project focuses on the analysis and classification of cervical cancer risk factors. It involves various machine learning techniques using a dataset and ultimately builds a model to predict the presence of cervical cancer based on demographic and medical features.
 
 # Dataset
-The dataset contains cervical cancer risk factors and includes various demographic and medical characteristics. The dataset is cleaned, and missing values are handled. Then, data analysis and visualization steps are performed.
+The dataset contains cervical cancer risk factors and includes various demographic and medical characteristics. The dataset is cleaned, and missing values are handled. Then, data analysis and visualization steps are performed. You can access to the dataset from the link "https://www.kaggle.com/datasets/loveall/cervical-cancer-risk-classification".
 
 # Machine Learning
 Machine learning steps include splitting the dataset into training and testing subsets, scaling features, model selection, and tuning hyperparameters. The project utilizes different classification algorithms such as Random Forest, Linear Regression, Support Vector Machines and etc.
